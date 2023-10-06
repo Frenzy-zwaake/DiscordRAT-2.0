@@ -69,3 +69,4 @@ Available commands are :
 --> !grabtokens = Grab all discord tokens on the current pc
 --> !help = This help menu
 ```
+![image](https://github.com/Frenzy-zwaake/DiscordRAT-2.0/blob/main/assets/LYVWoWu.png?raw=true)
